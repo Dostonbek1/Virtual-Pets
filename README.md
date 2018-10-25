@@ -1,3 +1,5 @@
+![Virtual Pets picture](http://cs.berea.edu/courses/csc236/images/virtual-pets.jpg)
+
 # Virtual Pets
 
 We are to create a program in which the user interacts with virtual pets with different needs.
@@ -11,4 +13,4 @@ This is a simple game that runs on the console. In the game, you will your buy y
 
 **P.S.** Please, feel free to provide your feedback on this game. Also, you are more than welcome if you would like to contribute or improve the game.
 
-![alt text](http://cs.berea.edu/courses/csc236/images/virtual-pets.jpg)
+
